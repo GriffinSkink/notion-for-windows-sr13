@@ -1,4 +1,4 @@
-# 
+# Enhance Notion for Windows with smart Notion for Windows Workflow | wiki-style-links + OCR-support, the #1 workflow. Includes wiki-style-links and OCR-support for a smoother and
 
 
 
